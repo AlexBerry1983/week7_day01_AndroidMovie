@@ -48,5 +48,5 @@ public class MovieTest {
         movie.setNewRanking(2);
         assertEquals(2, movie.getRanking());
     }
-    
+
 }
